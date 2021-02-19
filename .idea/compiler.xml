@@ -9,5 +9,8 @@
         <module name="JenkinsCalculator" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JenkinsCalculator" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
